@@ -17,7 +17,7 @@ Font-Awesome    --         http://fontawesome.io/
 
 
 ## Link
-* [Press Here](https://kobihason.github.io/Web-image-Landing-page/)
+* [Press Here](https://kobihason.github.io/Landing-page-website/)
 
 
 
