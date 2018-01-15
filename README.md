@@ -13,7 +13,7 @@ Font-Awesome    --         http://fontawesome.io/
 
 
 ## ScreenShot 
-![ScreenShot](https://github.com/KobiHason/Web-image-Landing-page/blob/master/img/ScreenShot.PNG)
+![ScreenShot](https://github.com/KobiHason/Web-image-Landing-page/blob/master/img/ScreenShot2.PNG)
 
 
 ## Link
