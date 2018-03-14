@@ -431,16 +431,20 @@
 
     <!--     google map  -->
 
-<script>
+  <script>
       function initMap() {
-        var myLatLng = {lat: 31.7418092, lng:34.7425814};
-        var map = new google.maps.Map(document.getElementById('map'),
-         {  zoom: 12,  center: myLatLng  });
-        var marker = new google.maps.Marker
-        ({ position: myLatLng,  map: map,   }); }
+        var uluru = {lat: 31.7418092, lng:34.7425814};
+        var map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 12,
+          center: uluru
+        });
+        var marker = new google.maps.Marker({
+          position: uluru,
+          map: map
+        });
+      }
     </script>
-
-  <script async defer
+    <script async defer
     src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAiGsdxhklge0FuXYARmyz6ubDYzhb1t4M&callback=initMap">
     </script>
 
